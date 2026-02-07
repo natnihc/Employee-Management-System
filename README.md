@@ -69,8 +69,25 @@ The application follows a **role-restricted access model**, ensuring only author
 
 ### 🔧 Backend Setup
 
-```bash
-git clone https://github.com/your-username/Employee-Management-System.git
-cd backend
-mvn clean install
-mvn spring-boot:run
+git clone https://github.com/your-username/Employee-Management-System.git<br>
+cd backend<br>
+mvn clean install<br>
+mvn spring-boot:run<br>
+
+---
+
+# Screnshots
+### 🔑 Login Page:
+<img width="1919" height="1009" alt="image" src="https://github.com/natnihc/Employee-Management-System/blob/main/screenshots/login.jpeg" />
+
+### ➕ Add Employee:
+<img width="1918" height="1015" alt="image" src="https://github.com/natnihc/Employee-Management-System/blob/main/screenshots/add_employee.jpeg" />
+
+### 📋 Employee List:
+<img width="1919" height="1018" alt="image" src="https://github.com/natnihc/Employee-Management-System/blob/main/screenshots/employee_list.jpeg" />
+
+### 🔍 View Employee:
+<img width="1919" height="1018" alt="image" src="https://github.com/natnihc/Employee-Management-System/blob/main/screenshots/view_employee.jpeg" />
+
+### 🔍 Update Employee:
+<img width="1919" height="1018" alt="image" src="https://github.com/natnihc/Employee-Management-System/blob/main/screenshots/update_emp.jpeg" />
